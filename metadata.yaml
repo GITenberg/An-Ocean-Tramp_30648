@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34733
     wikipedia: http://en.wikipedia.org/wiki/William_McFee
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30648#An-Ocean-Tramp
 gutenberg_issued: '2009-12-11'
 gutenberg_type: Text
 identifiers:
